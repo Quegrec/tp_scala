@@ -1,0 +1,8 @@
+# Données volumineuses
+data/
+
+# SBT
+target/
+
+# Spark
+null/
