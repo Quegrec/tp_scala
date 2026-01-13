@@ -3,6 +3,8 @@ data/
 
 # SBT
 target/
+project/target/
+project/build.properties
 
 # Spark
 null/

@@ -202,8 +202,8 @@ Toutes les réponses aux questions du TP sont documentées dans le fichier **`an
 
 ## 👤 Auteur
 
-**[Nom de l'étudiant]**  
-M1 TL - Janvier 2026
+**QUERREC Thomas**  
+M2 TL - Janvier 2026
 
 ---
 
